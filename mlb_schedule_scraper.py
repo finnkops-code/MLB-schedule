@@ -60,6 +60,12 @@ def et_tijd(game_date_iso):
     return ts.astimezone(ET).strftime("%H:%M")
 
 
+def logo_url(team_id):
+    if not team_id:
+        return None
+    return f"https://www.mlbstatic.com/team-logos/{team_id}.svg"
+
+
 def parse_score(waarde):
     if waarde is None:
         return None
@@ -92,8 +98,10 @@ def bouw_uitslag(game, afkortingen):
         "start_utc":   game.get("gameDate"),
         "thuis":       thuis_naam,
         "thuis_afk":   afkorting(thuis_naam, afkortingen),
+        "thuis_logo":  logo_url(thuis.get("team", {}).get("id")),
         "uit":         uit_naam,
         "uit_afk":     afkorting(uit_naam, afkortingen),
+        "uit_logo":    logo_url(uit.get("team", {}).get("id")),
         "score_thuis": parse_score(thuis.get("score")),
         "score_uit":   parse_score(uit.get("score")),
         "locatie":     game.get("venue", {}).get("name"),
@@ -115,8 +123,10 @@ def bouw_programma_item(game, afkortingen):
         "start_utc":    game.get("gameDate"),
         "thuis":        thuis_naam,
         "thuis_afk":    afkorting(thuis_naam, afkortingen),
+        "thuis_logo":   logo_url(thuis.get("team", {}).get("id")),
         "uit":          uit_naam,
         "uit_afk":      afkorting(uit_naam, afkortingen),
+        "uit_logo":     logo_url(uit.get("team", {}).get("id")),
         "werper_thuis": thuis.get("probablePitcher", {}).get("fullName"),
         "werper_uit":   uit.get("probablePitcher", {}).get("fullName"),
         "locatie":      game.get("venue", {}).get("name"),
