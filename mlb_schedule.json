@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-09-20T20:06:00Z",
+  "bijgewerkt": "2026-09-20T22:51:09Z",
   "uitslagen": [
     {
       "datum": "2026-09-19",
@@ -271,7 +271,7 @@
       "werper_thuis": "Jonah Tong",
       "werper_uit": "Cristopher Sánchez",
       "locatie": "Citi Field",
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "datum": "2026-09-20",
@@ -286,7 +286,7 @@
       "werper_thuis": "Lake Bachar",
       "werper_uit": "Michael Wacha",
       "locatie": "PNC Park",
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "datum": "2026-09-20",
@@ -301,7 +301,7 @@
       "werper_thuis": "Rhett Lowder",
       "werper_uit": "David Peterson",
       "locatie": "Great American Ball Park",
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "datum": "2026-09-20",
@@ -316,7 +316,7 @@
       "werper_thuis": "Gavin Williams",
       "werper_uit": "Jack Perkins",
       "locatie": "Progressive Field",
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "datum": "2026-09-20",
@@ -331,7 +331,7 @@
       "werper_thuis": "Griffin Jax",
       "werper_uit": "Patrick Sandoval",
       "locatie": "Tropicana Field",
-      "status": "Game Over"
+      "status": "Final"
     },
     {
       "datum": "2026-09-20",
@@ -346,7 +346,7 @@
       "werper_thuis": "Hunter Brown",
       "werper_uit": "Martín Pérez",
       "locatie": "Daikin Park",
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "datum": "2026-09-20",
@@ -361,7 +361,7 @@
       "werper_thuis": "Davis Martin",
       "werper_uit": "Troy Melton",
       "locatie": "Rate Field",
-      "status": "Delayed Start"
+      "status": "In Progress"
     },
     {
       "datum": "2026-09-20",
@@ -376,7 +376,7 @@
       "werper_thuis": "Quinn Mathews",
       "werper_uit": "Jake Irvin",
       "locatie": "Busch Stadium",
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "datum": "2026-09-20",
@@ -391,7 +391,7 @@
       "werper_thuis": "Jacob deGrom",
       "werper_uit": "Spencer Miles",
       "locatie": "Globe Life Field",
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "datum": "2026-09-20",
@@ -406,7 +406,7 @@
       "werper_thuis": "Tomoyuki Sugano",
       "werper_uit": "Kade Anderson",
       "locatie": "Coors Field",
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "datum": "2026-09-20",
@@ -421,7 +421,7 @@
       "werper_thuis": "Ryan Johnson",
       "werper_uit": "Dean Kremer",
       "locatie": "Angel Stadium",
-      "status": "Warmup"
+      "status": "Game Over"
     },
     {
       "datum": "2026-09-20",
@@ -436,7 +436,7 @@
       "werper_thuis": "Jack Dreyer",
       "werper_uit": "Matt Wilkinson",
       "locatie": "UNIQLO Field at Dodger Stadium",
-      "status": "Warmup"
+      "status": "Game Over"
     },
     {
       "datum": "2026-09-20",
@@ -451,7 +451,7 @@
       "werper_thuis": "Walker Buehler",
       "werper_uit": "Sandy Alcantara",
       "locatie": "Petco Park",
-      "status": "Warmup"
+      "status": "Final"
     },
     {
       "datum": "2026-09-20",
@@ -466,7 +466,7 @@
       "werper_thuis": "Corbin Burnes",
       "werper_uit": "Will Warren",
       "locatie": "Chase Field",
-      "status": "Warmup"
+      "status": "In Progress"
     },
     {
       "datum": "2026-09-20",
@@ -481,7 +481,7 @@
       "werper_thuis": "Brandon Young",
       "werper_uit": "Jacob Misiorowski",
       "locatie": "Oriole Park at Camden Yards",
-      "status": "Scheduled"
+      "status": "Pre-Game"
     }
   ]
 }
