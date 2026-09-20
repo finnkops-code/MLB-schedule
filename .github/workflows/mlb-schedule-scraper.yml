@@ -1,11 +1,15 @@
 name: MLB Schedule Scraper
 on:
   schedule:
-    # 09:00 UTC = 05:00 ET (zomertijd) / 04:00 ET (wintertijd).
-    # Op dat moment zijn ook de laatste westkust-avondwedstrijden (die rond
-    # 01:00–02:00 ET aflopen) al helemaal klaar, en staat het programma van
-    # de nieuwe Amerikaanse baseball-dag al vast.
-    - cron: '0 9 * * *'
+    # Draait om de 3 uur i.p.v. 1x per dag (was: '0 9 * * *', enkel om
+    # 09:00 UTC). Bij een enkele dagelijkse run staat de JSON voor bijna de
+    # hele rest van de dag een volledige Amerikaanse baseball-dag achter,
+    # tot vlak vóór de volgende run — precies het "loopt een dag achter"
+    # probleem dat hiermee wordt opgelost. Het script berekent "vandaag"/
+    # "gisteren" toch al vers bij elke run (op basis van de actuele
+    # Eastern Time), dus vaker draaien maakt de data alleen maar actueler,
+    # zonder ergens negatieve bijwerkingen te hebben.
+    - cron: '0 */3 * * *'
   workflow_dispatch:
 permissions:
   contents: write
