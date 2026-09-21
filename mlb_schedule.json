@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-09-20T22:51:09Z",
+  "bijgewerkt": "2026-09-21T02:43:14Z",
   "uitslagen": [
     {
       "datum": "2026-09-19",
@@ -361,7 +361,7 @@
       "werper_thuis": "Davis Martin",
       "werper_uit": "Troy Melton",
       "locatie": "Rate Field",
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "datum": "2026-09-20",
@@ -421,7 +421,7 @@
       "werper_thuis": "Ryan Johnson",
       "werper_uit": "Dean Kremer",
       "locatie": "Angel Stadium",
-      "status": "Game Over"
+      "status": "Final"
     },
     {
       "datum": "2026-09-20",
@@ -436,7 +436,7 @@
       "werper_thuis": "Jack Dreyer",
       "werper_uit": "Matt Wilkinson",
       "locatie": "UNIQLO Field at Dodger Stadium",
-      "status": "Game Over"
+      "status": "Final"
     },
     {
       "datum": "2026-09-20",
@@ -466,7 +466,7 @@
       "werper_thuis": "Corbin Burnes",
       "werper_uit": "Will Warren",
       "locatie": "Chase Field",
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "datum": "2026-09-20",
@@ -481,7 +481,7 @@
       "werper_thuis": "Brandon Young",
       "werper_uit": "Jacob Misiorowski",
       "locatie": "Oriole Park at Camden Yards",
-      "status": "Pre-Game"
+      "status": "Final"
     }
   ]
 }
