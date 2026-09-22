@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-09-21T21:31:26Z",
+  "bijgewerkt": "2026-09-22T02:44:17Z",
   "uitslagen": [
     {
       "datum": "2026-09-20",
@@ -271,7 +271,7 @@
       "werper_thuis": "Shane Baz",
       "werper_uit": "Trey Yesavage",
       "locatie": "Oriole Park at Camden Yards",
-      "status": "Pre-Game"
+      "status": "Final"
     },
     {
       "datum": "2026-09-21",
@@ -286,7 +286,7 @@
       "werper_thuis": "River Ryan",
       "werper_uit": "DJ Herz",
       "locatie": "Comerica Park",
-      "status": "Pre-Game"
+      "status": "Final"
     },
     {
       "datum": "2026-09-21",
@@ -301,7 +301,7 @@
       "werper_thuis": "Blade Tidwell",
       "werper_uit": "Zebby Matthews",
       "locatie": "Oracle Park",
-      "status": "Scheduled"
+      "status": "In Progress"
     }
   ]
 }
