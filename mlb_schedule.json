@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-09-23T18:45:38Z",
+  "bijgewerkt": "2026-09-23T23:23:01Z",
   "uitslagen": [
     {
       "datum": "2026-09-22",
@@ -271,7 +271,7 @@
       "werper_thuis": "Framber Valdez",
       "werper_uit": "Richard Lovelady",
       "locatie": "Comerica Park",
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "datum": "2026-09-23",
@@ -286,7 +286,7 @@
       "werper_thuis": "Chris Bassitt",
       "werper_uit": "Max Scherzer",
       "locatie": "Oriole Park at Camden Yards",
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "datum": "2026-09-23",
@@ -301,7 +301,7 @@
       "werper_thuis": "Cesar Perdomo",
       "werper_uit": "Connor Prielipp",
       "locatie": "Oracle Park",
-      "status": "Pre-Game"
+      "status": "Final"
     },
     {
       "datum": "2026-09-23",
@@ -313,10 +313,10 @@
       "uit": "Toronto Blue Jays",
       "uit_afk": "TOR",
       "uit_logo": "https://www.mlbstatic.com/team-logos/141.svg",
-      "werper_thuis": null,
-      "werper_uit": null,
+      "werper_thuis": "Trey Gibson",
+      "werper_uit": "CJ Van Eyk",
       "locatie": "Oriole Park at Camden Yards",
-      "status": "Scheduled"
+      "status": "In Progress"
     },
     {
       "datum": "2026-09-23",
@@ -331,7 +331,7 @@
       "werper_thuis": "Lake Bachar",
       "werper_uit": "Matthew Liberatore",
       "locatie": "PNC Park",
-      "status": "Pre-Game"
+      "status": "In Progress"
     },
     {
       "datum": "2026-09-23",
@@ -346,7 +346,7 @@
       "werper_thuis": "Aaron Nola",
       "werper_uit": "Logan Henderson",
       "locatie": "Citizens Bank Park",
-      "status": "Scheduled"
+      "status": "In Progress"
     },
     {
       "datum": "2026-09-23",
@@ -361,7 +361,7 @@
       "werper_thuis": "Gerrit Cole",
       "werper_uit": "Mason Englert",
       "locatie": "Yankee Stadium",
-      "status": "Scheduled"
+      "status": "In Progress"
     },
     {
       "datum": "2026-09-23",
@@ -376,7 +376,7 @@
       "werper_thuis": "Sonny Gray",
       "werper_uit": "Foster Griffin",
       "locatie": "Fenway Park",
-      "status": "Scheduled"
+      "status": "In Progress"
     },
     {
       "datum": "2026-09-23",
@@ -391,7 +391,7 @@
       "werper_thuis": "Chris Sale",
       "werper_uit": "Andrew Abbott",
       "locatie": "Truist Park",
-      "status": "Scheduled"
+      "status": "In Progress"
     },
     {
       "datum": "2026-09-23",
@@ -406,7 +406,7 @@
       "werper_thuis": "Seth Lugo",
       "werper_uit": "Bryan Hudson",
       "locatie": "Kauffman Stadium",
-      "status": "Scheduled"
+      "status": "Pre-Game"
     },
     {
       "datum": "2026-09-23",
@@ -421,7 +421,7 @@
       "werper_thuis": "Kevin Gausman",
       "werper_uit": "Ryan Gusto",
       "locatie": "Wrigley Field",
-      "status": "Scheduled"
+      "status": "Pre-Game"
     },
     {
       "datum": "2026-09-23",
@@ -436,7 +436,7 @@
       "werper_thuis": "Cody Bradford",
       "werper_uit": "Nolan McLean",
       "locatie": "Globe Life Field",
-      "status": "Scheduled"
+      "status": "Pre-Game"
     },
     {
       "datum": "2026-09-23",
@@ -466,7 +466,7 @@
       "werper_thuis": "Jeffrey Springs",
       "werper_uit": "Walbert Ureña",
       "locatie": "Sutter Health Park",
-      "status": "Scheduled"
+      "status": "Pre-Game"
     },
     {
       "datum": "2026-09-23",
@@ -481,7 +481,7 @@
       "werper_thuis": "Yoshinobu Yamamoto",
       "werper_uit": "Robbie Ray",
       "locatie": "UNIQLO Field at Dodger Stadium",
-      "status": "Scheduled"
+      "status": "Pre-Game"
     },
     {
       "datum": "2026-09-23",
@@ -496,7 +496,7 @@
       "werper_thuis": "George Kirby",
       "werper_uit": "Ethan Pecko",
       "locatie": "T-Mobile Park",
-      "status": "Scheduled"
+      "status": "Pre-Game"
     }
   ]
 }
