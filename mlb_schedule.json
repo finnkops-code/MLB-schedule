@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-09-24T18:46:19Z",
+  "bijgewerkt": "2026-09-24T23:42:15Z",
   "uitslagen": [
     {
       "datum": "2026-09-23",
@@ -288,7 +288,7 @@
       "werper_thuis": "Paul Skenes",
       "werper_uit": "Kyle Leahy",
       "locatie": "PNC Park",
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "datum": "2026-09-24",
@@ -303,7 +303,7 @@
       "werper_thuis": "Randy Dobnak",
       "werper_uit": "David Sandlin",
       "locatie": "Kauffman Stadium",
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "datum": "2026-09-24",
@@ -318,7 +318,7 @@
       "werper_thuis": "Matthew Boyd",
       "werper_uit": "Tyler Phillips",
       "locatie": "Wrigley Field",
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "datum": "2026-09-24",
@@ -333,7 +333,7 @@
       "werper_thuis": "Kumar Rocker",
       "werper_uit": "Zac Thornton",
       "locatie": "Globe Life Field",
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "datum": "2026-09-24",
@@ -348,7 +348,7 @@
       "werper_thuis": "Tanner Gordon",
       "werper_uit": "Eduardo Rodriguez",
       "locatie": "Coors Field",
-      "status": "Warmup"
+      "status": "Final"
     },
     {
       "datum": "2026-09-24",
@@ -363,7 +363,7 @@
       "werper_thuis": "Andrew Painter",
       "werper_uit": "Shane Drohan",
       "locatie": "Citizens Bank Park",
-      "status": "Pre-Game"
+      "status": "In Progress"
     },
     {
       "datum": "2026-09-24",
@@ -378,7 +378,7 @@
       "werper_thuis": "Ranger Suarez",
       "werper_uit": "Daniel Espino",
       "locatie": "Fenway Park",
-      "status": "Pre-Game"
+      "status": "In Progress"
     },
     {
       "datum": "2026-09-24",
@@ -393,7 +393,7 @@
       "werper_thuis": "Cam Schlittler",
       "werper_uit": "Ian Seymour",
       "locatie": "Yankee Stadium",
-      "status": "Scheduled"
+      "status": "In Progress"
     },
     {
       "datum": "2026-09-24",
@@ -408,7 +408,7 @@
       "werper_thuis": "Tyler Mahle",
       "werper_uit": "Brady Singer",
       "locatie": "Truist Park",
-      "status": "Scheduled"
+      "status": "In Progress"
     },
     {
       "datum": "2026-09-24",
@@ -423,7 +423,7 @@
       "werper_thuis": "Mason Barnett",
       "werper_uit": "Peter Lambert",
       "locatie": "Sutter Health Park",
-      "status": "Scheduled"
+      "status": "Pre-Game"
     },
     {
       "datum": "2026-09-24",
@@ -438,7 +438,7 @@
       "werper_thuis": "Bryan Woo",
       "werper_uit": "Grayson Rodriguez",
       "locatie": "T-Mobile Park",
-      "status": "Scheduled"
+      "status": "Pre-Game"
     },
     {
       "datum": "2026-09-24",
@@ -453,7 +453,7 @@
       "werper_thuis": "Tyler Glasnow",
       "werper_uit": "Nick Pivetta",
       "locatie": "UNIQLO Field at Dodger Stadium",
-      "status": "Scheduled"
+      "status": "Pre-Game"
     }
   ]
 }
