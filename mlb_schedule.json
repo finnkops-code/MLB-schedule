@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-09-25T23:44:38Z",
+  "bijgewerkt": "2026-09-26T02:54:38Z",
   "uitslagen": [
     {
       "datum": "2026-09-24",
@@ -250,7 +250,7 @@
       "werper_thuis": "Ryan Yarbrough",
       "werper_uit": "Brandon Young",
       "locatie": "Yankee Stadium",
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "datum": "2026-09-25",
@@ -265,7 +265,7 @@
       "werper_thuis": "Brayan Bello",
       "werper_uit": "David Peterson",
       "locatie": "Fenway Park",
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "datum": "2026-09-25",
@@ -280,7 +280,7 @@
       "werper_thuis": "Jackson Jobe",
       "werper_uit": "Bubba Chandler",
       "locatie": "Comerica Park",
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "datum": "2026-09-25",
@@ -295,7 +295,7 @@
       "werper_thuis": "Cristopher Sánchez",
       "werper_uit": "Freddy Peralta",
       "locatie": "Citizens Bank Park",
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "datum": "2026-09-25",
@@ -310,7 +310,7 @@
       "werper_thuis": "Andrew Alvarez",
       "werper_uit": "Jefry Yan",
       "locatie": "Nationals Park",
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "datum": "2026-09-25",
@@ -325,7 +325,7 @@
       "werper_thuis": "José Soriano",
       "werper_uit": "Nick Lodolo",
       "locatie": "Rogers Centre",
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "datum": "2026-09-25",
@@ -340,7 +340,7 @@
       "werper_thuis": "Eury Pérez",
       "werper_uit": "Ray Kerr",
       "locatie": "loanDepot park",
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "datum": "2026-09-25",
@@ -355,7 +355,7 @@
       "werper_thuis": "Noah Cameron",
       "werper_uit": "Gavin Williams",
       "locatie": "Kauffman Stadium",
-      "status": "Delayed Start"
+      "status": "In Progress"
     },
     {
       "datum": "2026-09-25",
@@ -370,7 +370,7 @@
       "werper_thuis": "Sean Burke",
       "werper_uit": "Tomoyuki Sugano",
       "locatie": "Rate Field",
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "datum": "2026-09-25",
@@ -385,7 +385,7 @@
       "werper_thuis": "Robert Gasser",
       "werper_uit": "Michael McGreevy",
       "locatie": "American Family Field",
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "datum": "2026-09-25",
@@ -400,7 +400,7 @@
       "werper_thuis": "Joe Ryan",
       "werper_uit": "Jacob deGrom",
       "locatie": "Target Field",
-      "status": "Pre-Game"
+      "status": "Game Over"
     },
     {
       "datum": "2026-09-25",
@@ -415,7 +415,7 @@
       "werper_thuis": "Jacob Lopez",
       "werper_uit": "Hunter Brown",
       "locatie": "Sutter Health Park",
-      "status": "Pre-Game"
+      "status": "In Progress"
     },
     {
       "datum": "2026-09-25",
@@ -430,7 +430,7 @@
       "werper_thuis": "Casey Mize",
       "werper_uit": "Brandon Pfaadt",
       "locatie": "Petco Park",
-      "status": "Pre-Game"
+      "status": "In Progress"
     },
     {
       "datum": "2026-09-25",
@@ -445,7 +445,7 @@
       "werper_thuis": "Bryce Miller",
       "werper_uit": "Reid Detmers",
       "locatie": "T-Mobile Park",
-      "status": "Pre-Game"
+      "status": "In Progress"
     },
     {
       "datum": "2026-09-25",
@@ -460,7 +460,7 @@
       "werper_thuis": "Yunior Marte",
       "werper_uit": "Tarik Skubal",
       "locatie": "Oracle Park",
-      "status": "Pre-Game"
+      "status": "In Progress"
     }
   ]
 }
