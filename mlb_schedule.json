@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-09-27T18:49:41Z",
+  "bijgewerkt": "2026-09-27T23:31:40Z",
   "uitslagen": [
     {
       "datum": "2026-09-26",
@@ -237,7 +237,7 @@
       "werper_thuis": "DJ Herz",
       "werper_uit": "Sean Manaea",
       "locatie": "Nationals Park",
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "datum": "2026-09-27",
@@ -252,7 +252,7 @@
       "werper_thuis": "Elmer Rodríguez",
       "werper_uit": "Shane Baz",
       "locatie": "Yankee Stadium",
-      "status": "Delayed Start"
+      "status": "Cancelled"
     },
     {
       "datum": "2026-09-27",
@@ -267,7 +267,7 @@
       "werper_thuis": "Zack Wheeler",
       "werper_uit": "Nick Martinez",
       "locatie": "Citizens Bank Park",
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "datum": "2026-09-27",
@@ -282,7 +282,7 @@
       "werper_thuis": "Tanner Houck",
       "werper_uit": "Shota Imanaga",
       "locatie": "Tropicana Field",
-      "status": "Warmup"
+      "status": "Final"
     },
     {
       "datum": "2026-09-27",
@@ -297,7 +297,7 @@
       "werper_thuis": "Seth Johnson",
       "werper_uit": "Peter Lambert",
       "locatie": "Sutter Health Park",
-      "status": "Warmup"
+      "status": "Final"
     },
     {
       "datum": "2026-09-27",
@@ -312,7 +312,7 @@
       "werper_thuis": "Carson Seymour",
       "werper_uit": "Jack Dreyer",
       "locatie": "Oracle Park",
-      "status": "Warmup"
+      "status": "Final"
     },
     {
       "datum": "2026-09-27",
@@ -327,7 +327,7 @@
       "werper_thuis": "Max Scherzer",
       "werper_uit": "Brandon Williamson",
       "locatie": "Rogers Centre",
-      "status": "Warmup"
+      "status": "Final"
     },
     {
       "datum": "2026-09-27",
@@ -342,7 +342,7 @@
       "werper_thuis": "Daniel Lynch IV",
       "werper_uit": "Parker Messick",
       "locatie": "Kauffman Stadium",
-      "status": "Warmup"
+      "status": "Final"
     },
     {
       "datum": "2026-09-27",
@@ -357,7 +357,7 @@
       "werper_thuis": "River Ryan",
       "werper_uit": "Jared Jones",
       "locatie": "Comerica Park",
-      "status": "Warmup"
+      "status": "Final"
     },
     {
       "datum": "2026-09-27",
@@ -372,7 +372,7 @@
       "werper_thuis": "Randy Vásquez",
       "werper_uit": "Michael Soroka",
       "locatie": "Petco Park",
-      "status": "Warmup"
+      "status": "Final"
     },
     {
       "datum": "2026-09-27",
@@ -387,7 +387,7 @@
       "werper_thuis": "Logan Gilbert",
       "werper_uit": "Yusei Kikuchi",
       "locatie": "T-Mobile Park",
-      "status": "Warmup"
+      "status": "Final"
     },
     {
       "datum": "2026-09-27",
@@ -402,7 +402,7 @@
       "werper_thuis": "Dean Kremer",
       "werper_uit": "MacKenzie Gore",
       "locatie": "Target Field",
-      "status": "Warmup"
+      "status": "Final"
     },
     {
       "datum": "2026-09-27",
@@ -417,7 +417,7 @@
       "werper_thuis": "Anthony Kay",
       "werper_uit": "Kyle Freeland",
       "locatie": "Rate Field",
-      "status": "Warmup"
+      "status": "Final"
     },
     {
       "datum": "2026-09-27",
@@ -432,7 +432,7 @@
       "werper_thuis": "Janson Junk",
       "werper_uit": "JR Ritchie",
       "locatie": "loanDepot park",
-      "status": "Warmup"
+      "status": "Final"
     },
     {
       "datum": "2026-09-27",
@@ -447,7 +447,7 @@
       "werper_thuis": "Jacob Misiorowski",
       "werper_uit": "Andre Pallante",
       "locatie": "American Family Field",
-      "status": "Warmup"
+      "status": "Final"
     }
   ]
 }
