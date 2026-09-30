@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-09-29T21:43:45Z",
+  "bijgewerkt": "2026-09-30T03:23:03Z",
   "uitslagen": [],
   "programma": [
     {
@@ -30,7 +30,7 @@
       "werper_thuis": "AJ Blubaugh",
       "werper_uit": "Hagen Smith",
       "locatie": "Daikin Park",
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "datum": "2026-09-29",
@@ -45,7 +45,7 @@
       "werper_thuis": "Cam Schlittler",
       "werper_uit": "Payton Tolle",
       "locatie": "Yankee Stadium",
-      "status": "Pre-Game"
+      "status": "Game Over"
     },
     {
       "datum": "2026-09-29",
@@ -60,7 +60,7 @@
       "werper_thuis": "Michael King",
       "werper_uit": "Matthew Boyd",
       "locatie": "Petco Park",
-      "status": "Pre-Game"
+      "status": "In Progress"
     }
   ]
 }
