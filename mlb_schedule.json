@@ -1,7 +1,6 @@
 {
-  "bijgewerkt": "2026-09-30T03:23:03Z",
-  "uitslagen": [],
-  "programma": [
+  "bijgewerkt": "2026-09-30T11:42:32Z",
+  "uitslagen": [
     {
       "datum": "2026-09-29",
       "tijdstip": "14:00",
@@ -12,10 +11,12 @@
       "uit": "Philadelphia Phillies",
       "uit_afk": "PHI",
       "uit_logo": "https://www.mlbstatic.com/team-logos/143.svg",
-      "werper_thuis": "Chris Sale",
-      "werper_uit": "Jesús Luzardo",
+      "score_thuis": 5,
+      "score_uit": 3,
       "locatie": "Truist Park",
-      "status": "Final"
+      "status": "Final",
+      "gespeeld": true,
+      "live": false
     },
     {
       "datum": "2026-09-29",
@@ -27,10 +28,12 @@
       "uit": "Chicago White Sox",
       "uit_afk": "CWS",
       "uit_logo": "https://www.mlbstatic.com/team-logos/145.svg",
-      "werper_thuis": "AJ Blubaugh",
-      "werper_uit": "Hagen Smith",
+      "score_thuis": 3,
+      "score_uit": 6,
       "locatie": "Daikin Park",
-      "status": "Final"
+      "status": "Final",
+      "gespeeld": true,
+      "live": false
     },
     {
       "datum": "2026-09-29",
@@ -42,10 +45,12 @@
       "uit": "Boston Red Sox",
       "uit_afk": "BOS",
       "uit_logo": "https://www.mlbstatic.com/team-logos/111.svg",
-      "werper_thuis": "Cam Schlittler",
-      "werper_uit": "Payton Tolle",
+      "score_thuis": 9,
+      "score_uit": 0,
       "locatie": "Yankee Stadium",
-      "status": "Game Over"
+      "status": "Final",
+      "gespeeld": true,
+      "live": false
     },
     {
       "datum": "2026-09-29",
@@ -57,10 +62,74 @@
       "uit": "Chicago Cubs",
       "uit_afk": "CHC",
       "uit_logo": "https://www.mlbstatic.com/team-logos/112.svg",
-      "werper_thuis": "Michael King",
-      "werper_uit": "Matthew Boyd",
+      "score_thuis": 8,
+      "score_uit": 0,
       "locatie": "Petco Park",
-      "status": "In Progress"
+      "status": "Final",
+      "gespeeld": true,
+      "live": false
+    }
+  ],
+  "programma": [
+    {
+      "datum": "2026-09-30",
+      "tijdstip": "14:00",
+      "start_utc": "2026-09-30T18:00:00Z",
+      "thuis": "Atlanta Braves",
+      "thuis_afk": "ATL",
+      "thuis_logo": "https://www.mlbstatic.com/team-logos/144.svg",
+      "uit": "Philadelphia Phillies",
+      "uit_afk": "PHI",
+      "uit_logo": "https://www.mlbstatic.com/team-logos/143.svg",
+      "werper_thuis": "Tyler Mahle",
+      "werper_uit": "Cristopher Sánchez",
+      "locatie": "Truist Park",
+      "status": "Scheduled"
+    },
+    {
+      "datum": "2026-09-30",
+      "tijdstip": "17:00",
+      "start_utc": "2026-09-30T21:00:00Z",
+      "thuis": "Houston Astros",
+      "thuis_afk": "HOU",
+      "thuis_logo": "https://www.mlbstatic.com/team-logos/117.svg",
+      "uit": "Chicago White Sox",
+      "uit_afk": "CWS",
+      "uit_logo": "https://www.mlbstatic.com/team-logos/145.svg",
+      "werper_thuis": "Hunter Brown",
+      "werper_uit": "Sean Burke",
+      "locatie": "Daikin Park",
+      "status": "Scheduled"
+    },
+    {
+      "datum": "2026-09-30",
+      "tijdstip": "20:00",
+      "start_utc": "2026-10-01T00:00:00Z",
+      "thuis": "New York Yankees",
+      "thuis_afk": "NYY",
+      "thuis_logo": "https://www.mlbstatic.com/team-logos/147.svg",
+      "uit": "Boston Red Sox",
+      "uit_afk": "BOS",
+      "uit_logo": "https://www.mlbstatic.com/team-logos/111.svg",
+      "werper_thuis": "Max Fried",
+      "werper_uit": "Sonny Gray",
+      "locatie": "Yankee Stadium",
+      "status": "Scheduled"
+    },
+    {
+      "datum": "2026-09-30",
+      "tijdstip": "22:00",
+      "start_utc": "2026-10-01T02:00:00Z",
+      "thuis": "San Diego Padres",
+      "thuis_afk": "SD",
+      "thuis_logo": "https://www.mlbstatic.com/team-logos/135.svg",
+      "uit": "Chicago Cubs",
+      "uit_afk": "CHC",
+      "uit_logo": "https://www.mlbstatic.com/team-logos/112.svg",
+      "werper_thuis": "Nick Pivetta",
+      "werper_uit": "Kevin Gausman",
+      "locatie": "Petco Park",
+      "status": "Scheduled"
     }
   ]
 }
