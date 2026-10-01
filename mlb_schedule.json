@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-09-30T21:44:21Z",
+  "bijgewerkt": "2026-10-01T03:29:03Z",
   "uitslagen": [
     {
       "datum": "2026-09-29",
@@ -99,7 +99,7 @@
       "werper_thuis": "Hunter Brown",
       "werper_uit": "Sean Burke",
       "locatie": "Daikin Park",
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "datum": "2026-09-30",
@@ -114,7 +114,7 @@
       "werper_thuis": "Max Fried",
       "werper_uit": "Sonny Gray",
       "locatie": "Yankee Stadium",
-      "status": "Pre-Game"
+      "status": "Final"
     },
     {
       "datum": "2026-09-30",
@@ -129,7 +129,7 @@
       "werper_thuis": "Nick Pivetta",
       "werper_uit": "Kevin Gausman",
       "locatie": "Petco Park",
-      "status": "Pre-Game"
+      "status": "In Progress"
     }
   ]
 }
