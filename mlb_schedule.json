@@ -1,76 +1,6 @@
 {
-  "bijgewerkt": "2026-10-02T00:24:00Z",
+  "bijgewerkt": "2026-10-02T09:13:36Z",
   "uitslagen": [
-    {
-      "datum": "2026-09-30",
-      "tijdstip": "14:00",
-      "start_utc": "2026-09-30T18:00:00Z",
-      "thuis": "Atlanta Braves",
-      "thuis_afk": "ATL",
-      "thuis_logo": "https://www.mlbstatic.com/team-logos/144.svg",
-      "uit": "Philadelphia Phillies",
-      "uit_afk": "PHI",
-      "uit_logo": "https://www.mlbstatic.com/team-logos/143.svg",
-      "score_thuis": 3,
-      "score_uit": 4,
-      "locatie": "Truist Park",
-      "status": "Final",
-      "gespeeld": true,
-      "live": false
-    },
-    {
-      "datum": "2026-09-30",
-      "tijdstip": "17:00",
-      "start_utc": "2026-09-30T21:00:00Z",
-      "thuis": "Houston Astros",
-      "thuis_afk": "HOU",
-      "thuis_logo": "https://www.mlbstatic.com/team-logos/117.svg",
-      "uit": "Chicago White Sox",
-      "uit_afk": "CWS",
-      "uit_logo": "https://www.mlbstatic.com/team-logos/145.svg",
-      "score_thuis": 3,
-      "score_uit": 7,
-      "locatie": "Daikin Park",
-      "status": "Final",
-      "gespeeld": true,
-      "live": false
-    },
-    {
-      "datum": "2026-09-30",
-      "tijdstip": "20:00",
-      "start_utc": "2026-10-01T00:00:00Z",
-      "thuis": "New York Yankees",
-      "thuis_afk": "NYY",
-      "thuis_logo": "https://www.mlbstatic.com/team-logos/147.svg",
-      "uit": "Boston Red Sox",
-      "uit_afk": "BOS",
-      "uit_logo": "https://www.mlbstatic.com/team-logos/111.svg",
-      "score_thuis": 9,
-      "score_uit": 2,
-      "locatie": "Yankee Stadium",
-      "status": "Final",
-      "gespeeld": true,
-      "live": false
-    },
-    {
-      "datum": "2026-09-30",
-      "tijdstip": "22:00",
-      "start_utc": "2026-10-01T02:00:00Z",
-      "thuis": "San Diego Padres",
-      "thuis_afk": "SD",
-      "thuis_logo": "https://www.mlbstatic.com/team-logos/135.svg",
-      "uit": "Chicago Cubs",
-      "uit_afk": "CHC",
-      "uit_logo": "https://www.mlbstatic.com/team-logos/112.svg",
-      "score_thuis": 4,
-      "score_uit": 1,
-      "locatie": "Petco Park",
-      "status": "Final",
-      "gespeeld": true,
-      "live": false
-    }
-  ],
-  "programma": [
     {
       "datum": "2026-10-01",
       "tijdstip": "20:00",
@@ -81,10 +11,13 @@
       "uit": "Philadelphia Phillies",
       "uit_afk": "PHI",
       "uit_logo": "https://www.mlbstatic.com/team-logos/143.svg",
-      "werper_thuis": "Ray Kerr",
-      "werper_uit": "Aaron Nola",
+      "score_thuis": 6,
+      "score_uit": 2,
       "locatie": "Truist Park",
-      "status": "In Progress"
+      "status": "Final",
+      "gespeeld": true,
+      "live": false
     }
-  ]
+  ],
+  "programma": []
 }
