@@ -1,23 +1,66 @@
 {
-  "bijgewerkt": "2026-10-03T03:13:16Z",
-  "uitslagen": [
+  "bijgewerkt": "2026-10-03T10:54:44Z",
+  "uitslagen": [],
+  "programma": [
     {
-      "datum": "2026-10-01",
-      "tijdstip": "20:00",
-      "start_utc": "2026-10-02T00:00:00Z",
-      "thuis": "Atlanta Braves",
-      "thuis_afk": "ATL",
-      "thuis_logo": "https://www.mlbstatic.com/team-logos/144.svg",
-      "uit": "Philadelphia Phillies",
-      "uit_afk": "PHI",
-      "uit_logo": "https://www.mlbstatic.com/team-logos/143.svg",
-      "score_thuis": 6,
-      "score_uit": 2,
-      "locatie": "Truist Park",
-      "status": "Final",
-      "gespeeld": true,
-      "live": false
+      "datum": "2026-10-03",
+      "tijdstip": "13:00",
+      "start_utc": "2026-10-03T17:00:00Z",
+      "thuis": "Cleveland Guardians",
+      "thuis_afk": "CLE",
+      "thuis_logo": "https://www.mlbstatic.com/team-logos/114.svg",
+      "uit": "Chicago White Sox",
+      "uit_afk": "CWS",
+      "uit_logo": "https://www.mlbstatic.com/team-logos/145.svg",
+      "werper_thuis": "Parker Messick",
+      "werper_uit": "Hagen Smith",
+      "locatie": "Progressive Field",
+      "status": "Scheduled"
+    },
+    {
+      "datum": "2026-10-03",
+      "tijdstip": "16:00",
+      "start_utc": "2026-10-03T20:00:00Z",
+      "thuis": "Los Angeles Dodgers",
+      "thuis_afk": "LAD",
+      "thuis_logo": "https://www.mlbstatic.com/team-logos/119.svg",
+      "uit": "Atlanta Braves",
+      "uit_afk": "ATL",
+      "uit_logo": "https://www.mlbstatic.com/team-logos/144.svg",
+      "werper_thuis": "Tarik Skubal",
+      "werper_uit": null,
+      "locatie": "UNIQLO Field at Dodger Stadium",
+      "status": "Scheduled"
+    },
+    {
+      "datum": "2026-10-03",
+      "tijdstip": "18:30",
+      "start_utc": "2026-10-03T22:30:00Z",
+      "thuis": "Tampa Bay Rays",
+      "thuis_afk": "TB",
+      "thuis_logo": "https://www.mlbstatic.com/team-logos/139.svg",
+      "uit": "New York Yankees",
+      "uit_afk": "NYY",
+      "uit_logo": "https://www.mlbstatic.com/team-logos/147.svg",
+      "werper_thuis": "Drew Rasmussen",
+      "werper_uit": "Gerrit Cole",
+      "locatie": "Tropicana Field",
+      "status": "Scheduled"
+    },
+    {
+      "datum": "2026-10-03",
+      "tijdstip": "20:30",
+      "start_utc": "2026-10-04T00:30:00Z",
+      "thuis": "Milwaukee Brewers",
+      "thuis_afk": "MIL",
+      "thuis_logo": "https://www.mlbstatic.com/team-logos/158.svg",
+      "uit": "San Diego Padres",
+      "uit_afk": "SD",
+      "uit_logo": "https://www.mlbstatic.com/team-logos/135.svg",
+      "werper_thuis": "Jacob Misiorowski",
+      "werper_uit": "Robbie Ray",
+      "locatie": "American Family Field",
+      "status": "Scheduled"
     }
-  ],
-  "programma": []
+  ]
 }
