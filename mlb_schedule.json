@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-10-03T23:27:10Z",
+  "bijgewerkt": "2026-10-04T03:42:06Z",
   "uitslagen": [],
   "programma": [
     {
@@ -45,7 +45,7 @@
       "werper_thuis": "Drew Rasmussen",
       "werper_uit": "Gerrit Cole",
       "locatie": "Tropicana Field",
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "datum": "2026-10-03",
@@ -60,7 +60,7 @@
       "werper_thuis": "Jacob Misiorowski",
       "werper_uit": "Robbie Ray",
       "locatie": "American Family Field",
-      "status": "Pre-Game"
+      "status": "In Progress"
     }
   ]
 }
