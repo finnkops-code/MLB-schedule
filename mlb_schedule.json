@@ -1,7 +1,6 @@
 {
-  "bijgewerkt": "2026-10-04T03:42:06Z",
-  "uitslagen": [],
-  "programma": [
+  "bijgewerkt": "2026-10-04T11:37:00Z",
+  "uitslagen": [
     {
       "datum": "2026-10-03",
       "tijdstip": "13:00",
@@ -12,10 +11,12 @@
       "uit": "Chicago White Sox",
       "uit_afk": "CWS",
       "uit_logo": "https://www.mlbstatic.com/team-logos/145.svg",
-      "werper_thuis": "Parker Messick",
-      "werper_uit": "Hagen Smith",
+      "score_thuis": 0,
+      "score_uit": 3,
       "locatie": "Progressive Field",
-      "status": "Final"
+      "status": "Final",
+      "gespeeld": true,
+      "live": false
     },
     {
       "datum": "2026-10-03",
@@ -27,10 +28,12 @@
       "uit": "Atlanta Braves",
       "uit_afk": "ATL",
       "uit_logo": "https://www.mlbstatic.com/team-logos/144.svg",
-      "werper_thuis": "Tarik Skubal",
-      "werper_uit": "Dylan Dodd",
+      "score_thuis": 5,
+      "score_uit": 3,
       "locatie": "UNIQLO Field at Dodger Stadium",
-      "status": "Final"
+      "status": "Final",
+      "gespeeld": true,
+      "live": false
     },
     {
       "datum": "2026-10-03",
@@ -42,10 +45,12 @@
       "uit": "New York Yankees",
       "uit_afk": "NYY",
       "uit_logo": "https://www.mlbstatic.com/team-logos/147.svg",
-      "werper_thuis": "Drew Rasmussen",
-      "werper_uit": "Gerrit Cole",
+      "score_thuis": 1,
+      "score_uit": 0,
       "locatie": "Tropicana Field",
-      "status": "Final"
+      "status": "Final",
+      "gespeeld": true,
+      "live": false
     },
     {
       "datum": "2026-10-03",
@@ -57,10 +62,44 @@
       "uit": "San Diego Padres",
       "uit_afk": "SD",
       "uit_logo": "https://www.mlbstatic.com/team-logos/135.svg",
-      "werper_thuis": "Jacob Misiorowski",
-      "werper_uit": "Robbie Ray",
+      "score_thuis": 3,
+      "score_uit": 2,
       "locatie": "American Family Field",
-      "status": "In Progress"
+      "status": "Final",
+      "gespeeld": true,
+      "live": false
+    }
+  ],
+  "programma": [
+    {
+      "datum": "2026-10-04",
+      "tijdstip": "16:00",
+      "start_utc": "2026-10-04T20:00:00Z",
+      "thuis": "Milwaukee Brewers",
+      "thuis_afk": "MIL",
+      "thuis_logo": "https://www.mlbstatic.com/team-logos/158.svg",
+      "uit": "San Diego Padres",
+      "uit_afk": "SD",
+      "uit_logo": "https://www.mlbstatic.com/team-logos/135.svg",
+      "werper_thuis": "Logan Henderson",
+      "werper_uit": "Michael King",
+      "locatie": "American Family Field",
+      "status": "Scheduled"
+    },
+    {
+      "datum": "2026-10-04",
+      "tijdstip": "20:00",
+      "start_utc": "2026-10-05T00:00:00Z",
+      "thuis": "Los Angeles Dodgers",
+      "thuis_afk": "LAD",
+      "thuis_logo": "https://www.mlbstatic.com/team-logos/119.svg",
+      "uit": "Atlanta Braves",
+      "uit_afk": "ATL",
+      "uit_logo": "https://www.mlbstatic.com/team-logos/144.svg",
+      "werper_thuis": "Blake Snell",
+      "werper_uit": null,
+      "locatie": "UNIQLO Field at Dodger Stadium",
+      "status": "Scheduled"
     }
   ]
 }
