@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-10-05T13:14:11Z",
+  "bijgewerkt": "2026-10-05T21:45:13Z",
   "uitslagen": [
     {
       "datum": "2026-10-04",
@@ -50,7 +50,7 @@
       "werper_thuis": "Gavin Williams",
       "werper_uit": "Anthony Kay",
       "locatie": "Progressive Field",
-      "status": "Scheduled"
+      "status": "In Progress"
     },
     {
       "datum": "2026-10-05",
@@ -65,7 +65,7 @@
       "werper_thuis": "Freddy Peralta",
       "werper_uit": "Cam Schlittler",
       "locatie": "Tropicana Field",
-      "status": "Scheduled"
+      "status": "Pre-Game"
     }
   ]
 }
