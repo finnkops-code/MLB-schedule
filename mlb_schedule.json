@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-10-06T19:56:07Z",
+  "bijgewerkt": "2026-10-07T00:17:03Z",
   "uitslagen": [
     {
       "datum": "2026-10-05",
@@ -50,7 +50,7 @@
       "werper_thuis": "Chris Sale",
       "werper_uit": "Yoshinobu Yamamoto",
       "locatie": "Truist Park",
-      "status": "Pre-Game"
+      "status": "In Progress"
     },
     {
       "datum": "2026-10-06",
@@ -65,7 +65,7 @@
       "werper_thuis": "Nick Pivetta",
       "werper_uit": "Dustin May",
       "locatie": "Petco Park",
-      "status": "Scheduled"
+      "status": "Pre-Game"
     }
   ]
 }
