@@ -1,42 +1,6 @@
 {
-  "bijgewerkt": "2026-10-08T00:38:47Z",
+  "bijgewerkt": "2026-10-08T09:47:28Z",
   "uitslagen": [
-    {
-      "datum": "2026-10-06",
-      "tijdstip": "18:00",
-      "start_utc": "2026-10-06T22:00:00Z",
-      "thuis": "Atlanta Braves",
-      "thuis_afk": "ATL",
-      "thuis_logo": "https://www.mlbstatic.com/team-logos/144.svg",
-      "uit": "Los Angeles Dodgers",
-      "uit_afk": "LAD",
-      "uit_logo": "https://www.mlbstatic.com/team-logos/119.svg",
-      "score_thuis": 1,
-      "score_uit": 3,
-      "locatie": "Truist Park",
-      "status": "Final",
-      "gespeeld": true,
-      "live": false
-    },
-    {
-      "datum": "2026-10-06",
-      "tijdstip": "21:30",
-      "start_utc": "2026-10-07T01:30:00Z",
-      "thuis": "San Diego Padres",
-      "thuis_afk": "SD",
-      "thuis_logo": "https://www.mlbstatic.com/team-logos/135.svg",
-      "uit": "Milwaukee Brewers",
-      "uit_afk": "MIL",
-      "uit_logo": "https://www.mlbstatic.com/team-logos/158.svg",
-      "score_thuis": 4,
-      "score_uit": 3,
-      "locatie": "Petco Park",
-      "status": "Final",
-      "gespeeld": true,
-      "live": false
-    }
-  ],
-  "programma": [
     {
       "datum": "2026-10-07",
       "tijdstip": "16:00",
@@ -47,10 +11,12 @@
       "uit": "Cleveland Guardians",
       "uit_afk": "CLE",
       "uit_logo": "https://www.mlbstatic.com/team-logos/114.svg",
-      "werper_thuis": "Sean Newcomb",
-      "werper_uit": "Daniel Espino",
+      "score_thuis": 3,
+      "score_uit": 9,
       "locatie": "Rate Field",
-      "status": "Final"
+      "status": "Final",
+      "gespeeld": true,
+      "live": false
     },
     {
       "datum": "2026-10-07",
@@ -62,10 +28,12 @@
       "uit": "Los Angeles Dodgers",
       "uit_afk": "LAD",
       "uit_logo": "https://www.mlbstatic.com/team-logos/119.svg",
-      "werper_thuis": "Tyler Mahle",
-      "werper_uit": "Tyler Glasnow",
+      "score_thuis": 1,
+      "score_uit": 4,
       "locatie": "Truist Park",
-      "status": "In Progress"
+      "status": "Final",
+      "gespeeld": true,
+      "live": false
     },
     {
       "datum": "2026-10-07",
@@ -77,10 +45,12 @@
       "uit": "Tampa Bay Rays",
       "uit_afk": "TB",
       "uit_logo": "https://www.mlbstatic.com/team-logos/139.svg",
-      "werper_thuis": "Max Fried",
-      "werper_uit": "Nick Martinez",
+      "score_thuis": 3,
+      "score_uit": 4,
       "locatie": "Yankee Stadium",
-      "status": "In Progress"
+      "status": "Final",
+      "gespeeld": true,
+      "live": false
     },
     {
       "datum": "2026-10-07",
@@ -92,10 +62,29 @@
       "uit": "Milwaukee Brewers",
       "uit_afk": "MIL",
       "uit_logo": "https://www.mlbstatic.com/team-logos/158.svg",
-      "werper_thuis": "Walker Buehler",
-      "werper_uit": "Robert Gasser",
+      "score_thuis": 1,
+      "score_uit": 3,
       "locatie": "Petco Park",
-      "status": "Pre-Game"
+      "status": "Final",
+      "gespeeld": true,
+      "live": false
+    }
+  ],
+  "programma": [
+    {
+      "datum": "2026-10-08",
+      "tijdstip": "20:00",
+      "start_utc": "2026-10-09T00:00:00Z",
+      "thuis": "Chicago White Sox",
+      "thuis_afk": "CWS",
+      "thuis_logo": "https://www.mlbstatic.com/team-logos/145.svg",
+      "uit": "Cleveland Guardians",
+      "uit_afk": "CLE",
+      "uit_logo": "https://www.mlbstatic.com/team-logos/114.svg",
+      "werper_thuis": "Hagen Smith",
+      "werper_uit": "Parker Messick",
+      "locatie": "Rate Field",
+      "status": "Scheduled"
     }
   ]
 }
