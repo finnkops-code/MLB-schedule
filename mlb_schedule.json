@@ -1,76 +1,6 @@
 {
-  "bijgewerkt": "2026-10-09T00:54:40Z",
+  "bijgewerkt": "2026-10-09T09:52:16Z",
   "uitslagen": [
-    {
-      "datum": "2026-10-07",
-      "tijdstip": "16:00",
-      "start_utc": "2026-10-07T20:00:00Z",
-      "thuis": "Chicago White Sox",
-      "thuis_afk": "CWS",
-      "thuis_logo": "https://www.mlbstatic.com/team-logos/145.svg",
-      "uit": "Cleveland Guardians",
-      "uit_afk": "CLE",
-      "uit_logo": "https://www.mlbstatic.com/team-logos/114.svg",
-      "score_thuis": 3,
-      "score_uit": 9,
-      "locatie": "Rate Field",
-      "status": "Final",
-      "gespeeld": true,
-      "live": false
-    },
-    {
-      "datum": "2026-10-07",
-      "tijdstip": "18:00",
-      "start_utc": "2026-10-07T22:00:00Z",
-      "thuis": "Atlanta Braves",
-      "thuis_afk": "ATL",
-      "thuis_logo": "https://www.mlbstatic.com/team-logos/144.svg",
-      "uit": "Los Angeles Dodgers",
-      "uit_afk": "LAD",
-      "uit_logo": "https://www.mlbstatic.com/team-logos/119.svg",
-      "score_thuis": 1,
-      "score_uit": 4,
-      "locatie": "Truist Park",
-      "status": "Final",
-      "gespeeld": true,
-      "live": false
-    },
-    {
-      "datum": "2026-10-07",
-      "tijdstip": "20:00",
-      "start_utc": "2026-10-08T00:00:00Z",
-      "thuis": "New York Yankees",
-      "thuis_afk": "NYY",
-      "thuis_logo": "https://www.mlbstatic.com/team-logos/147.svg",
-      "uit": "Tampa Bay Rays",
-      "uit_afk": "TB",
-      "uit_logo": "https://www.mlbstatic.com/team-logos/139.svg",
-      "score_thuis": 3,
-      "score_uit": 4,
-      "locatie": "Yankee Stadium",
-      "status": "Final",
-      "gespeeld": true,
-      "live": false
-    },
-    {
-      "datum": "2026-10-07",
-      "tijdstip": "22:00",
-      "start_utc": "2026-10-08T02:00:00Z",
-      "thuis": "San Diego Padres",
-      "thuis_afk": "SD",
-      "thuis_logo": "https://www.mlbstatic.com/team-logos/135.svg",
-      "uit": "Milwaukee Brewers",
-      "uit_afk": "MIL",
-      "uit_logo": "https://www.mlbstatic.com/team-logos/158.svg",
-      "score_thuis": 1,
-      "score_uit": 3,
-      "locatie": "Petco Park",
-      "status": "Final",
-      "gespeeld": true,
-      "live": false
-    }
-  ],
-  "programma": [
     {
       "datum": "2026-10-08",
       "tijdstip": "20:00",
@@ -81,10 +11,13 @@
       "uit": "Cleveland Guardians",
       "uit_afk": "CLE",
       "uit_logo": "https://www.mlbstatic.com/team-logos/114.svg",
-      "werper_thuis": "Hagen Smith",
-      "werper_uit": "Parker Messick",
+      "score_thuis": 5,
+      "score_uit": 9,
       "locatie": "Rate Field",
-      "status": "In Progress"
+      "status": "Final",
+      "gespeeld": true,
+      "live": false
     }
-  ]
+  ],
+  "programma": []
 }
