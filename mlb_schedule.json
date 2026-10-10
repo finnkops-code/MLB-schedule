@@ -1,23 +1,21 @@
 {
-  "bijgewerkt": "2026-10-10T03:44:11Z",
-  "uitslagen": [
+  "bijgewerkt": "2026-10-10T11:42:03Z",
+  "uitslagen": [],
+  "programma": [
     {
-      "datum": "2026-10-08",
+      "datum": "2026-10-10",
       "tijdstip": "20:00",
-      "start_utc": "2026-10-09T00:00:00Z",
-      "thuis": "Chicago White Sox",
-      "thuis_afk": "CWS",
-      "thuis_logo": "https://www.mlbstatic.com/team-logos/145.svg",
-      "uit": "Cleveland Guardians",
-      "uit_afk": "CLE",
-      "uit_logo": "https://www.mlbstatic.com/team-logos/114.svg",
-      "score_thuis": 5,
-      "score_uit": 9,
-      "locatie": "Rate Field",
-      "status": "Final",
-      "gespeeld": true,
-      "live": false
+      "start_utc": "2026-10-11T00:00:00Z",
+      "thuis": "Cleveland Guardians",
+      "thuis_afk": "CLE",
+      "thuis_logo": "https://www.mlbstatic.com/team-logos/114.svg",
+      "uit": "Chicago White Sox",
+      "uit_afk": "CWS",
+      "uit_logo": "https://www.mlbstatic.com/team-logos/145.svg",
+      "werper_thuis": "Gavin Williams",
+      "werper_uit": "Sean Burke",
+      "locatie": "Progressive Field",
+      "status": "Scheduled"
     }
-  ],
-  "programma": []
+  ]
 }
