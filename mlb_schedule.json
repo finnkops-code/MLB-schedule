@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-10-12T14:04:44Z",
+  "bijgewerkt": "2026-10-12T22:20:26Z",
   "uitslagen": [
     {
       "datum": "2026-10-11",
@@ -33,7 +33,7 @@
       "werper_thuis": "Logan Henderson",
       "werper_uit": "Yoshinobu Yamamoto",
       "locatie": "American Family Field",
-      "status": "Scheduled"
+      "status": "In Progress"
     },
     {
       "datum": "2026-10-12",
@@ -48,7 +48,7 @@
       "werper_thuis": "Drew Rasmussen",
       "werper_uit": "Foster Griffin",
       "locatie": "Tropicana Field",
-      "status": "Scheduled"
+      "status": "Pre-Game"
     }
   ]
 }
