@@ -1,25 +1,6 @@
 {
-  "bijgewerkt": "2026-10-12T03:39:56Z",
+  "bijgewerkt": "2026-10-12T14:04:44Z",
   "uitslagen": [
-    {
-      "datum": "2026-10-10",
-      "tijdstip": "20:00",
-      "start_utc": "2026-10-11T00:00:00Z",
-      "thuis": "Cleveland Guardians",
-      "thuis_afk": "CLE",
-      "thuis_logo": "https://www.mlbstatic.com/team-logos/114.svg",
-      "uit": "Chicago White Sox",
-      "uit_afk": "CWS",
-      "uit_logo": "https://www.mlbstatic.com/team-logos/145.svg",
-      "score_thuis": 2,
-      "score_uit": 0,
-      "locatie": "Progressive Field",
-      "status": "Final",
-      "gespeeld": true,
-      "live": false
-    }
-  ],
-  "programma": [
     {
       "datum": "2026-10-11",
       "tijdstip": "20:00",
@@ -30,10 +11,44 @@
       "uit": "Los Angeles Dodgers",
       "uit_afk": "LAD",
       "uit_logo": "https://www.mlbstatic.com/team-logos/119.svg",
-      "werper_thuis": "Jacob Misiorowski",
-      "werper_uit": "Tarik Skubal",
+      "score_thuis": 2,
+      "score_uit": 1,
       "locatie": "American Family Field",
-      "status": "Final"
+      "status": "Final",
+      "gespeeld": true,
+      "live": false
+    }
+  ],
+  "programma": [
+    {
+      "datum": "2026-10-12",
+      "tijdstip": "17:00",
+      "start_utc": "2026-10-12T21:00:00Z",
+      "thuis": "Milwaukee Brewers",
+      "thuis_afk": "MIL",
+      "thuis_logo": "https://www.mlbstatic.com/team-logos/158.svg",
+      "uit": "Los Angeles Dodgers",
+      "uit_afk": "LAD",
+      "uit_logo": "https://www.mlbstatic.com/team-logos/119.svg",
+      "werper_thuis": "Logan Henderson",
+      "werper_uit": "Yoshinobu Yamamoto",
+      "locatie": "American Family Field",
+      "status": "Scheduled"
+    },
+    {
+      "datum": "2026-10-12",
+      "tijdstip": "20:00",
+      "start_utc": "2026-10-13T00:00:00Z",
+      "thuis": "Tampa Bay Rays",
+      "thuis_afk": "TB",
+      "thuis_logo": "https://www.mlbstatic.com/team-logos/139.svg",
+      "uit": "Cleveland Guardians",
+      "uit_afk": "CLE",
+      "uit_logo": "https://www.mlbstatic.com/team-logos/114.svg",
+      "werper_thuis": "Drew Rasmussen",
+      "werper_uit": "Foster Griffin",
+      "locatie": "Tropicana Field",
+      "status": "Scheduled"
     }
   ]
 }
