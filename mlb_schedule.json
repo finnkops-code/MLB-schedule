@@ -1,42 +1,6 @@
 {
-  "bijgewerkt": "2026-10-14T00:03:25Z",
+  "bijgewerkt": "2026-10-14T08:16:39Z",
   "uitslagen": [
-    {
-      "datum": "2026-10-12",
-      "tijdstip": "17:00",
-      "start_utc": "2026-10-12T21:00:00Z",
-      "thuis": "Milwaukee Brewers",
-      "thuis_afk": "MIL",
-      "thuis_logo": "https://www.mlbstatic.com/team-logos/158.svg",
-      "uit": "Los Angeles Dodgers",
-      "uit_afk": "LAD",
-      "uit_logo": "https://www.mlbstatic.com/team-logos/119.svg",
-      "score_thuis": 7,
-      "score_uit": 4,
-      "locatie": "American Family Field",
-      "status": "Final",
-      "gespeeld": true,
-      "live": false
-    },
-    {
-      "datum": "2026-10-12",
-      "tijdstip": "20:00",
-      "start_utc": "2026-10-13T00:00:00Z",
-      "thuis": "Tampa Bay Rays",
-      "thuis_afk": "TB",
-      "thuis_logo": "https://www.mlbstatic.com/team-logos/139.svg",
-      "uit": "Cleveland Guardians",
-      "uit_afk": "CLE",
-      "uit_logo": "https://www.mlbstatic.com/team-logos/114.svg",
-      "score_thuis": 3,
-      "score_uit": 7,
-      "locatie": "Tropicana Field",
-      "status": "Final",
-      "gespeeld": true,
-      "live": false
-    }
-  ],
-  "programma": [
     {
       "datum": "2026-10-13",
       "tijdstip": "20:00",
@@ -47,10 +11,29 @@
       "uit": "Cleveland Guardians",
       "uit_afk": "CLE",
       "uit_logo": "https://www.mlbstatic.com/team-logos/114.svg",
-      "werper_thuis": "Freddy Peralta",
-      "werper_uit": "Parker Messick",
+      "score_thuis": 3,
+      "score_uit": 1,
       "locatie": "Tropicana Field",
-      "status": "Warmup"
+      "status": "Final",
+      "gespeeld": true,
+      "live": false
+    }
+  ],
+  "programma": [
+    {
+      "datum": "2026-10-14",
+      "tijdstip": "20:00",
+      "start_utc": "2026-10-15T00:00:00Z",
+      "thuis": "Los Angeles Dodgers",
+      "thuis_afk": "LAD",
+      "thuis_logo": "https://www.mlbstatic.com/team-logos/119.svg",
+      "uit": "Milwaukee Brewers",
+      "uit_afk": "MIL",
+      "uit_logo": "https://www.mlbstatic.com/team-logos/158.svg",
+      "werper_thuis": "Blake Snell",
+      "werper_uit": "Robert Gasser",
+      "locatie": "UNIQLO Field at Dodger Stadium",
+      "status": "Scheduled"
     }
   ]
 }
