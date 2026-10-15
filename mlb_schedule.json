@@ -1,25 +1,6 @@
 {
-  "bijgewerkt": "2026-10-15T02:39:59Z",
+  "bijgewerkt": "2026-10-15T07:53:49Z",
   "uitslagen": [
-    {
-      "datum": "2026-10-13",
-      "tijdstip": "20:00",
-      "start_utc": "2026-10-14T00:00:00Z",
-      "thuis": "Tampa Bay Rays",
-      "thuis_afk": "TB",
-      "thuis_logo": "https://www.mlbstatic.com/team-logos/139.svg",
-      "uit": "Cleveland Guardians",
-      "uit_afk": "CLE",
-      "uit_logo": "https://www.mlbstatic.com/team-logos/114.svg",
-      "score_thuis": 3,
-      "score_uit": 1,
-      "locatie": "Tropicana Field",
-      "status": "Final",
-      "gespeeld": true,
-      "live": false
-    }
-  ],
-  "programma": [
     {
       "datum": "2026-10-14",
       "tijdstip": "20:00",
@@ -30,10 +11,44 @@
       "uit": "Milwaukee Brewers",
       "uit_afk": "MIL",
       "uit_logo": "https://www.mlbstatic.com/team-logos/158.svg",
-      "werper_thuis": "Blake Snell",
-      "werper_uit": "Robert Gasser",
+      "score_thuis": 2,
+      "score_uit": 6,
       "locatie": "UNIQLO Field at Dodger Stadium",
-      "status": "In Progress"
+      "status": "Final",
+      "gespeeld": true,
+      "live": false
+    }
+  ],
+  "programma": [
+    {
+      "datum": "2026-10-15",
+      "tijdstip": "13:00",
+      "start_utc": "2026-10-15T17:00:00Z",
+      "thuis": "Cleveland Guardians",
+      "thuis_afk": "CLE",
+      "thuis_logo": "https://www.mlbstatic.com/team-logos/114.svg",
+      "uit": "Tampa Bay Rays",
+      "uit_afk": "TB",
+      "uit_logo": "https://www.mlbstatic.com/team-logos/139.svg",
+      "werper_thuis": "Gavin Williams",
+      "werper_uit": "Griffin Jax",
+      "locatie": "Progressive Field",
+      "status": "Scheduled"
+    },
+    {
+      "datum": "2026-10-15",
+      "tijdstip": "20:00",
+      "start_utc": "2026-10-16T00:00:00Z",
+      "thuis": "Los Angeles Dodgers",
+      "thuis_afk": "LAD",
+      "thuis_logo": "https://www.mlbstatic.com/team-logos/119.svg",
+      "uit": "Milwaukee Brewers",
+      "uit_afk": "MIL",
+      "uit_logo": "https://www.mlbstatic.com/team-logos/158.svg",
+      "werper_thuis": "Tyler Glasnow",
+      "werper_uit": null,
+      "locatie": "UNIQLO Field at Dodger Stadium",
+      "status": "Scheduled"
     }
   ]
 }
