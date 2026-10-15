@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-10-15T18:48:57Z",
+  "bijgewerkt": "2026-10-15T23:29:33Z",
   "uitslagen": [
     {
       "datum": "2026-10-14",
@@ -33,7 +33,7 @@
       "werper_thuis": "Gavin Williams",
       "werper_uit": "Griffin Jax",
       "locatie": "Progressive Field",
-      "status": "In Progress"
+      "status": "Final"
     },
     {
       "datum": "2026-10-15",
@@ -48,7 +48,7 @@
       "werper_thuis": "Tyler Glasnow",
       "werper_uit": "Shane Drohan",
       "locatie": "UNIQLO Field at Dodger Stadium",
-      "status": "Scheduled"
+      "status": "Pre-Game"
     }
   ]
 }
