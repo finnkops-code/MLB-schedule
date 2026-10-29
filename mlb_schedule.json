@@ -1,25 +1,6 @@
 {
-  "bijgewerkt": "2026-10-29T03:48:51Z",
+  "bijgewerkt": "2026-10-29T12:03:47Z",
   "uitslagen": [
-    {
-      "datum": "2026-10-27",
-      "tijdstip": "20:00",
-      "start_utc": "2026-10-28T00:00:00Z",
-      "thuis": "Tampa Bay Rays",
-      "thuis_afk": "TB",
-      "thuis_logo": "https://www.mlbstatic.com/team-logos/139.svg",
-      "uit": "Milwaukee Brewers",
-      "uit_afk": "MIL",
-      "uit_logo": "https://www.mlbstatic.com/team-logos/158.svg",
-      "score_thuis": 4,
-      "score_uit": 3,
-      "locatie": "Tropicana Field",
-      "status": "Final",
-      "gespeeld": true,
-      "live": false
-    }
-  ],
-  "programma": [
     {
       "datum": "2026-10-28",
       "tijdstip": "20:00",
@@ -30,10 +11,13 @@
       "uit": "Milwaukee Brewers",
       "uit_afk": "MIL",
       "uit_logo": "https://www.mlbstatic.com/team-logos/158.svg",
-      "werper_thuis": "Drew Rasmussen",
-      "werper_uit": "Jacob Misiorowski",
+      "score_thuis": 1,
+      "score_uit": 4,
       "locatie": "Tropicana Field",
-      "status": "Final"
+      "status": "Final",
+      "gespeeld": true,
+      "live": false
     }
-  ]
+  ],
+  "programma": []
 }
